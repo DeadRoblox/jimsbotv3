@@ -1,0 +1,18 @@
+{
+    "prefix": "-",
+    "owner": "Jim Bob",
+    "ownerid": "265726062330118144",
+    "token": "NjI2ODYxNDg5MDIxNTE3ODM3.XpXYLw.nyTUGcfkma6mv67YsJfNq8XmmN0",
+    "build": "1.0.0",
+    "white": "#ffffff",
+    "red": "#ff0000",
+    "orange": "#ffa500",
+    "yellow": "#ffff00",
+    "green": "#00ff00",
+    "blue": "#0000ff",
+    "purple": "#551a8b",
+    "cyan": "#46CED5",
+    "holiday": "#e35e17",
+    "blank": "#36393f",
+    "test": "Test message"
+  }
